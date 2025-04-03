@@ -3,5 +3,5 @@
 void FuncFromTest()
 {
 
-	cout << "Hello from test" << endl;
+	cout << "Hi" << endl;
 }
